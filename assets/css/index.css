@@ -99,6 +99,7 @@ html {
 body {
   font-size: 1.5rem;
   font-family: "Alata", sans-serif;
+  overflow-x:hidden;
 }
 
 .header {
